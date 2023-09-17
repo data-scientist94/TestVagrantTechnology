@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface MaxPlayList {
+public interface MaxPlayList {
+    public static final int maxSongsThatCanBeStored = 10;
 }

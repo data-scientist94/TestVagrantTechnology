@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface MaxNumberOfUserSupported {
+public interface MaxNumberOfUserSupported {
+    public static final int maxNoOfUserSupported = 10;
 }

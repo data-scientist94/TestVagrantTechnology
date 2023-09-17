@@ -1,0 +1,9 @@
+Description:
+1) PlaylistPerUser is the main file in which logic is written
+2) SongUnitTestCase contains few test case for demo purpose
+
+Requirement:
+1) Java Version 1.8 is required to run this project.
+
+
+Created by Krishna Chauhan on 17th Sep
